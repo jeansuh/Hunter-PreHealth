@@ -1,12 +1,12 @@
-#How to use Python scripts
+# How to use Python scripts
 
-##Installing Python 3
+## Installing Python 3
 
 follow the instructions on the Python documentation website
 
 https://realpython.com/installing-python/
 
-##Running the scripts
+## Running the scripts
 
 In terminal or command prompt, change directory to the folder containing the scripts.
 

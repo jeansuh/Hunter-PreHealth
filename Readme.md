@@ -14,10 +14,10 @@ This script takes the directory of the folder containing CSV files, and the name
 The output is in the following format:
 
 ```
-//If the student did not attend the seminar :
+// If the student did not attend the seminar :
 name of the seminar : Did not attend
-//Otherwise :
-duration of stay out of total seminar duration
+// Otherwise :
+name of the seminar : duration of stay out of total seminar duration
 ```
 
 ### convert-to-xlsx.py
